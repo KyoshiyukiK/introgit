@@ -10,3 +10,5 @@ commit
 
 
 git remove
+
+git status
