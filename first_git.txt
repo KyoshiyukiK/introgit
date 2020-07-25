@@ -12,3 +12,6 @@ commit
 git remove
 
 git status
+
+
+first git diff
